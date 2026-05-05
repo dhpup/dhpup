@@ -10,7 +10,7 @@
 <img width="45%" align="right" alt="GitOps illustration" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 Senior Sales Engineer at Akuity. Former DevRel, former SRE.
-- 🚀 I turn Kubernetes, GitOps, and platform engineering into business value people actually understand.
+- 🚀 I turn Kubernetes, GitOps, and platform engineering into business value.
 - 🧩 Founding-team operator who has done a bit of everything: demos, POCs, feedback loops, hiring, enablement, and closing.
 - 📈 Worked every kind of deal from SMB to strategic enterprise, with recent quarters over quota and triple-digit YoY growth.
 - 💬 Ask me about GitOps, Argo CD, Kargo, pre-sales, technical storytelling, or how to make complex platforms sound less complex.
@@ -21,7 +21,3 @@
 - Kubernetes, Argo CD, GitOps, Harness, Kargo, GitHub
 - ELK, Grafana, New Relic, Observability tooling
 - POCs, demos, CI/CD, automation, and technical discovery
-
-## Outside of work
-
-- PC hardware, cars, sustainability, future tech, and karaoke with more confidence than range.
